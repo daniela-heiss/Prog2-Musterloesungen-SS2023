@@ -3,7 +3,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 
 Übungen:
 
-Noch keine
+u02a: Motorrad
 
 
 Hausaufgaben:
