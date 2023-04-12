@@ -8,7 +8,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 
 Hausaufgaben:
 
--
+- u03a Klasse cWindrad
 
 
 Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. Bei Unklarheiten fragt lieber nochmal nach.
