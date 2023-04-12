@@ -3,12 +3,12 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 
 Übungen:
 
-u02a: Motorrad
+- u02a Klasse cMotorrad
 
 
 Hausaufgaben:
 
-Noch keine
+-
 
 
 Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. Bei Unklarheiten fragt lieber nochmal nach.
