@@ -4,6 +4,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 Übungen:
 
 - u02a Klasse cMotorrad
+- u03b Klasse cBaum
 
 
 Hausaufgaben:
