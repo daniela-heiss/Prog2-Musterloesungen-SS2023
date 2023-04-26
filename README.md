@@ -5,6 +5,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 
 - u02a Klasse cMotorrad
 - u03b Klasse cBaum
+- u03c Klasse cWindrad mit cGeoPos
 
 
 Hausaufgaben:
