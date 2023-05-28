@@ -7,6 +7,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 - u03b Klasse cBaum
 - u03c Klasse cWindrad mit cGeoPos
 - u04a Klasse cFahrrad
+- u06a Klasse cSchachfeld
 
 
 Hausaufgaben:
