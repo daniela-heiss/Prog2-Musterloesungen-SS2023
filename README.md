@@ -16,6 +16,7 @@ Hausaufgaben:
 
 - u03a Klasse cWindrad
 - u03d Klasse cDreieck
+- u07a Klasse cBruch mit Bubblesort
 
 
 Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. Bei Unklarheiten fragt lieber nochmal nach.
