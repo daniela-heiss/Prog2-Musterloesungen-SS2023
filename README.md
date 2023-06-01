@@ -19,6 +19,7 @@ Hausaufgaben:
 - u03d Klasse cDreieck
 - u06c Klasse cLine und cText
 - u07a Klasse cBruch mit Bubblesort
+- u09c Klasse cJukebox
 
 
 Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. Bei Unklarheiten fragt lieber nochmal nach.
