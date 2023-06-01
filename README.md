@@ -9,7 +9,6 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 - u04a Klasse cFahrrad
 - u05c Klasse cComplex
 - u06a Klasse cSchachfeld
-- u06c Klasse cLine und cText
 - u08g Klasse cLageskala
 
 
@@ -17,6 +16,7 @@ Hausaufgaben:
 
 - u03a Klasse cWindrad
 - u03d Klasse cDreieck
+- u06c Klasse cLine und cText
 - u07a Klasse cBruch mit Bubblesort
 
 
