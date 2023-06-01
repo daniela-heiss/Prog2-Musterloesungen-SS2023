@@ -10,6 +10,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 - u05c Klasse cComplex
 - u06a Klasse cSchachfeld
 - u08g Klasse cLageskala
+- u09a Klasse cPrimzahl
 
 
 Hausaufgaben:
