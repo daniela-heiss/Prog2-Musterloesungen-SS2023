@@ -10,6 +10,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 - u05c Klasse cComplex
 - u06a Klasse cSchachfeld
 - u06c Klasse cLine und cText
+- u08g Klasse cLageskala
 
 
 Hausaufgaben:
